@@ -5,6 +5,9 @@ Controls two DC motors independently (direction & enable) using an L293D driver 
 
 ![Screenshot 2025-04-28 144846](https://github.com/user-attachments/assets/443ecb53-e78b-4fb0-b347-4e86c2a693f8)
 
+![Screenshot 2025-04-28 153704](https://github.com/user-attachments/assets/791004d6-5b73-46ac-b72c-1dbe7661911f)
+
+
 ![Screenshot 2025-04-28 151200](https://github.com/user-attachments/assets/6ab15dcd-113f-4bd8-9d7c-71b22b5638f6)
 
 
